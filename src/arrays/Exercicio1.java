@@ -1,13 +1,19 @@
 package arrays;
 
 /*
- Para cada conjunto de valores abaixo, escreva o código Java, usando laço(s), que
-preencha um array com os valores:
+Que o programa implemente as seguintes funções:
 
-a) 10 9 8 7 6 5 4 3 2 1
-b) 0 1 4 9 16 25 36 49 64 81 100
-c) 1 2 3 4 5 10 20 30 40 50
-d) 3 4 7 12 19 28 39 52 67 84
+A) totalPares: a função recebe como parâmetro um array de inteiros e retorna um
+número inteiro indicando o total de números pares existentes no array.
+
+B) maiorValor: a função recebe como parâmetro um array de inteiros e retorna o maior valor
+no array.
+
+C) totalIguais: a função recebe como parâmetro dois arrays de inteiro e retorna o total de números
+iguias existentes em ambos os arrays.
+
+Em seguid, crie a função principal do programa para testar as funções criadas em arrays definidos
+ estaticamente ou informados pelo usuário.
 
  */
 
